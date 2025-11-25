@@ -1,6 +1,7 @@
 ## Hi there 👋
 - I attend Davidson College in Davidson NC
-- Currently enrolled in CSC 321 and 359
+- Currently enrolled in CSC 371 and 357
+- I am interested in predicting water levels in river systems based on USGS Precipitation data
 - How to reach me: laoehler@davidson.edu
 
 
